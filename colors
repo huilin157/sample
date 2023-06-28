@@ -1,0 +1,48 @@
+{
+  "colors": [
+    {
+      "english_name": "Red",
+      "chinese_name": "紅色"
+    },
+    {
+      "english_name": "Blue",
+      "chinese_name": "藍色"
+    },
+    {
+      "english_name": "Green",
+      "chinese_name": "綠色"
+    },
+    {
+      "english_name": "Yellow",
+      "chinese_name": "黃色"
+    },
+    {
+      "english_name": "Purple",
+      "chinese_name": "紫色"
+    },
+    {
+      "english_name": "Orange",
+      "chinese_name": "橙色"
+    },
+    {
+      "english_name": "Pink",
+      "chinese_name": "粉紅色"
+    },
+    {
+      "english_name": "Brown",
+      "chinese_name": "棕色"
+    },
+    {
+      "english_name": "Gray",
+      "chinese_name": "灰色"
+    },
+    {
+      "english_name": "Black",
+      "chinese_name": "黑色"
+    },
+    {
+      "english_name": "White",
+      "chinese_name": "白色"
+    }
+  ]
+}
