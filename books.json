@@ -1,0 +1,109 @@
+{
+  "books": [
+    {
+      "book_name": "計算機科學導論",
+      "ISBN13": "9991013746253",
+      "author": "hsiaoming"
+    },
+    {
+      "book_name": "演算法導論",
+      "ISBN13": "9991013746254",
+      "author": "John Doe"
+    },
+    {
+      "book_name": "資料結構與演算法",
+      "ISBN13": "9991013746255",
+      "author": "Jane Smith"
+    },
+    {
+      "book_name": "網路安全入門",
+      "ISBN13": "9991013746256",
+      "author": "David Johnson"
+    },
+    {
+      "book_name": "電腦網路架構",
+      "ISBN13": "9991013746257",
+      "author": "Emily Wilson"
+    },
+    {
+      "book_name": "人工智慧基礎",
+      "ISBN13": "9991013746258",
+      "author": "Michael Brown"
+    },
+    {
+      "book_name": "數學入門",
+      "ISBN13": "9991013746259",
+      "author": "Amy Lee"
+    },
+    {
+      "book_name": "物理學基礎",
+      "ISBN13": "9991013746260",
+      "author": "Robert Johnson"
+    },
+    {
+      "book_name": "化學概論",
+      "ISBN13": "9991013746261",
+      "author": "Sarah Thompson"
+    },
+    {
+      "book_name": "生物學基礎",
+      "ISBN13": "9991013746262",
+      "author": "Daniel Smith"
+    },
+    {
+      "book_name": "經濟學入門",
+      "ISBN13": "9991013746263",
+      "author": "Jennifer Davis"
+    },
+    {
+      "book_name": "短篇小說集",
+      "ISBN13": "9991013746264",
+      "author": "Mark Johnson"
+    },
+    {
+      "book_name": "歷史文化導覽",
+      "ISBN13": "9991013746265",
+      "author": "Sophia Miller"
+    },
+    {
+      "book_name": "心理學入門",
+      "ISBN13": "9991013746266",
+      "author": "William Taylor"
+    },
+    {
+      "book_name": "藝術與設計",
+      "ISBN13": "9991013746267",
+      "author": "Olivia Anderson"
+    },
+    {
+      "book_name": "社會學導論",
+      "ISBN13": "9991013746268",
+      "author": "Andrew Wilson"
+    },
+    {
+      "book_name": "英語文法基礎",
+      "ISBN13": "9991013746269",
+      "author": "Linda Brown"
+    },
+    {
+      "book_name": "音樂欣賞指南",
+      "ISBN13": "9991013746270",
+      "author": "Henry Davis"
+    },
+    {
+      "book_name": "商業管理原理",
+      "ISBN13": "9991013746271",
+      "author": "Emma Johnson"
+    },
+    {
+      "book_name": "環境科學概論",
+      "ISBN13": "9991013746272",
+      "author": "Christopher Smith"
+    },
+    {
+      "book_name": "小說選集",
+      "ISBN13": "9991013746273",
+      "author": "Laura Wilson"
+    }
+  ]
+}
